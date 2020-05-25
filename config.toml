@@ -1,6 +1,7 @@
 # The URL the site will be built for
-base_url = "https://www.hitsuji-no-shippo.me"
+base_url = "https://www.hituzi-no-sippo.me"
 
+theme = "hallo"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
@@ -12,4 +13,12 @@ highlight_code = false
 build_search_index = false
 
 [extra]
-# Put all your custom variables here
+links = [
+    { title = "Blog", url = "https://blog.hituzi-no-sippo.me", iconset = "fas", icon = "blog" },
+    { title = "GitHub", url = "https://github.com/hituzi-no-sippo", icon = "github" },
+    { title = "Twitter", url = "https://twitter.com/hituzi_no_sippo", icon = "twitter" },
+    { title = "Keybase", url = "https://keybase.io/hituzi_no_sippo", icon = "keybase" }
+]
+
+[extra.author]
+name = "hituzi no sippo"

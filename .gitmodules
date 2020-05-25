@@ -1,0 +1,3 @@
+[submodule "themes/hallo"]
+	path = themes/hallo
+	url = https://github.com/hituzi-no-sippo/zola-hallo.git
