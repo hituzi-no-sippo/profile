@@ -1,9 +1,7 @@
 +++
 +++
 
-2020年3月からフリーランスになりました。フルリモートのお仕事募集中です。
-お仕事の依頼をしていただける場合、[blogのabout](https://blog.hituzi-no-sippo.me/pages/about/)を読んでください。
-問い合わせ方法もaboutに記載されています。
+求職中です。
 
 ### Development Environment
 
