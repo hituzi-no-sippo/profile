@@ -1,24 +1,26 @@
 +++
 +++
 
-求職中です。
+求職中です。お問い合わせは次の3つのどれかを利用して下さい。
+
+* [twitter](https://twitter.com/hituzi_no_sippo)のDM
+* [keybase](https://keybase.io/hituzi_no_sippo)のchat
+* contact🐑hituzi-no-sippo.me
+
+  🐑を`@`に変えてください。
 
 ### Development Environment
 
 * Text Editor: [NeoVim](https://neovim.io)
 * Terminal Emulator: [Alacrrity](https://github.com/alacritty/alacritty)
-* Shell
-  * Main: [fish](https://fishshell.com)
-  * Studying: [Nu](https://www.nushell.sh)
+* Shell: [fish](https://fishshell.com)
 * Lightweight markup: [Asciidoc(tor)](https://asciidoctor.org)
 
-### Private Tasks (2020/06/07 時点)
+### Private Tasks (2020/11/07 時点)
 
-* [ニコニコのランキングを生成するchrome拡張アプリ](
-  https://github.com/hituzi-no-sippo/my-niconico-rankings)を[nextjs](https://nextjs.org)で作成しています。
-* [nnnのwiki](https://github.com/jarun/nnn/issues/551)を和訳しています。
-* [Rust 2018 Edition](https://doc.rust-lang.org/nightly/edition-guide/rust-2018/index.html)を読んで、Rustを学習中です。
-* [Rustでwasm](https://www.rust-lang.org/ja/what/wasm)を学習する予定です。
-* RustのTUI library [cursive](https://github.com/gyscos/cursive)でappを作成してみます。
-* Vagrant => WSL2に開発環境を移行する予定です。
-* Key配列を[Eucalyn配列](http://eucalyn.hatenadiary.jp/entry/about-eucalyn-layout)に変更します。
+* 就職する
+* [Fjord Boot Camp](https://bootcamp.fjord.jp/)を卒業する
+* Rustを覚える
+* RustのTUI library [cursive](https://github.com/gyscos/cursive)を利用して[ClickUp](https://clickup.com)のTUI toolを作る
+* 自作キーボードの[GergoPlex](https://www.gboards.ca/product/gergoplex)か[corne-cherry](https://yushakobo.jp/shop/corne-cherry/)を作成する
+* 自作キーボードの配列をT-Codeにする
